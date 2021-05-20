@@ -1,0 +1,54 @@
+Name:    Erin Oefelein
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Four
+
+Invoices sorted by part description:
+Part #: 83  Description: Electric sander  Quantity: 7     Price: $ 57.98
+Part #: 77  Description: Hammer           Quantity: 76    Price: $ 11.99
+Part #: 56  Description: Jig saw          Quantity: 21    Price: $ 11.00
+Part #: 39  Description: Lawn mower       Quantity: 3     Price: $ 79.50
+Part #: 24  Description: Power saw        Quantity: 18    Price: $ 99.99
+Part #: 68  Description: Screwdriver      Quantity: 106   Price: $  6.99
+Part #: 7   Description: Sledge hammer    Quantity: 11    Price: $ 21.50
+Part #: 3   Description: Wrench           Quantity: 34    Price: $  7.50
+
+Invoices sorted by price:
+Part #: 68  Description: Screwdriver      Quantity: 106   Price: $  6.99
+Part #: 3   Description: Wrench           Quantity: 34    Price: $  7.50
+Part #: 56  Description: Jig saw          Quantity: 21    Price: $ 11.00
+Part #: 77  Description: Hammer           Quantity: 76    Price: $ 11.99
+Part #: 7   Description: Sledge hammer    Quantity: 11    Price: $ 21.50
+Part #: 83  Description: Electric sander  Quantity: 7     Price: $ 57.98
+Part #: 39  Description: Lawn mower       Quantity: 3     Price: $ 79.50
+Part #: 24  Description: Power saw        Quantity: 18    Price: $ 99.99
+
+
+Invoices mapped to description and quantity:
+Description: Lawn mower       Quantity: 3   
+Description: Electric sander  Quantity: 7   
+Description: Sledge hammer    Quantity: 11  
+Description: Power saw        Quantity: 18  
+Description: Jig saw          Quantity: 21  
+Description: Wrench           Quantity: 34  
+Description: Hammer           Quantity: 76  
+Description: Screwdriver      Quantity: 106 
+
+Map invoice to part description & value, then sort results by value: 
+Description: Jig saw          Value: 231.00
+Description: Sledge hammer    Value: 236.50
+Description: Lawn mower       Value: 238.50
+Description: Wrench           Value: 255.00
+Description: Electric sander  Value: 405.86
+Description: Screwdriver      Value: 740.94
+Description: Hammer           Value: 911.24
+Description: Power saw        Value: 1799.82
+
+Invoices whose invoice value falls within $200 - $500
+Description: Jig saw          Value: 231.00
+Description: Sledge hammer    Value: 236.50
+Description: Lawn mower       Value: 238.50
+Description: Wrench           Value: 255.00
+Description: Electric sander  Value: 405.86
+
+Print Invoice whose part description contains "saw":
+Part #: 24  Description: Power saw        Quantity: 18    Price: $ 99.99

@@ -1,0 +1,31 @@
+Name:    Erin Oefelein
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Two
+
+
+Shape:		Circle
+Dimension:	Two Dimensional
+Area: 		103.87
+
+Shape:		Square
+Dimension:	Two Dimensional
+Area: 		6.25
+
+Shape:		Triangle
+Dimension:	Two Dimensional
+Area: 		41.06
+
+Shape:		Sphere
+Dimension:	Three Dimensional
+Area: 		415.48
+Volume: 	796.33
+
+Shape:		Cube
+Dimension:	Three Dimensional
+Area: 		37.50
+Volume: 	15.63
+
+Shape:		Tetrahedron
+Dimension:	Three Dimensional
+Area: 		10.83
+Volume: 	1.84

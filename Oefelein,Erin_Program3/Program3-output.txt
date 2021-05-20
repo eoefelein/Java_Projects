@@ -1,0 +1,27 @@
+Name:    Erin Oefelein
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Three
+
+Please enter a year between 1903 & 2020: 1903
+Winning Team for the Year 1903: Boston Americans
+Number of Boston Americans Team Wins: 1
+
+Please enter a year between 1903 & 2020: 1924
+Winning Team for the Year 1924: Washington Senators
+Number of Washington Senators Team Wins: 1
+
+Please enter a year between 1903 & 2020: 1994
+World Series not held in 1994
+
+Please enter a year between 1903 & 2020: 2009
+Winning Team for the Year 2009: New York Yankees
+Number of New York Yankees Team Wins: 27
+
+Please enter a year between 1903 & 2020: 2020
+Winning Team for the Year 2020: Los Angeles Dodgers
+Number of Los Angeles Dodgers Team Wins: 6
+
+Please enter a year between 1903 & 2020: 0
+Thank you, goodbye!
+
+Process finished with exit code 0

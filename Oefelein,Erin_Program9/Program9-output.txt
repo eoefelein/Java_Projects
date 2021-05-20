@@ -1,0 +1,36 @@
+"C:\Program Files\Java\jdk-14.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.2\lib\idea_rt.jar=59364:C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\oefel\IdeaProjects\Project9\out\production\Project9 InfixToPostfixConverter
+Name:    Erin Oefelein
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Nine
+Enter expression to convert (no spaces!): 
+7/9
+Postfix expression is:79/
+Enter -1 to quit. Else enter any single digit number to continue: 
+1
+Enter expression to convert (no spaces!): 
+6+2*5
+Postfix expression is:625*+
+Enter -1 to quit. Else enter any single digit number to continue: 
+2
+Enter expression to convert (no spaces!): 
+6+2*5-8/4
+Postfix expression is:625*+84/-
+Enter -1 to quit. Else enter any single digit number to continue: 
+3
+Enter expression to convert (no spaces!): 
+(6+2)*5-8/4
+Postfix expression is:62+5*84/-
+Enter -1 to quit. Else enter any single digit number to continue: 
+4
+Enter expression to convert (no spaces!): 
+(6+2)*5^8/4
+Postfix expression is:62+58^*4/
+Enter -1 to quit. Else enter any single digit number to continue: 
+5
+Enter expression to convert (no spaces!): 
+6%2^5-8/4*5
+Postfix expression is:625^%84/5*-
+Enter -1 to quit. Else enter any single digit number to continue: 
+-1
+
+Process finished with exit code 0

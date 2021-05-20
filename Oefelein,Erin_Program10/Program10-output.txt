@@ -1,0 +1,15 @@
+Name:    Erin Oefelein
+Course:  ITSE 2317 Intermediate Java Programming
+Program: Ten
+
+Beginning ArrayWriter operation using the Main (1) thread only...
+
+sharedSimpleArray members sum to: 10178
+Total time to complete singleCore ArrayWriter operation: 59 milliseconds
+
+Beginning ArrayWriter operation using six (6) threads...
+
+All threads executed task successfully.
+
+sharedSimpleArray members sum to: 10181
+Total time to complete multiCore ArrayWriter operation: 10 milliseconds
